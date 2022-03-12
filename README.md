@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Python, SQL, Java, Flask, Django**
 
 - 📫 How to reach me **viveksinghal32454@gmail.com**
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47s5lek4nuwy4yofb2qzusg6r2dq3thatbiqrol04o&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47s5lek4nuwy4yofb2qzusg6r2dq3thatbiqrol04o&rid=giphy.gif&ct=g">
 
 <hr>
 <h3 align="left">Connect with me:</h3>
