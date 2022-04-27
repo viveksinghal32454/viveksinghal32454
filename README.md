@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> <img src="https://imgs.search.brave.com/Q2-MQEVKpf6OsPLvEFTFjXGwIrO2USn_8JczCAmtXrg/rs:fit:626:255:1/g:ce/aHR0cHM6Ly9pbWFn/ZS5mcmVlcGlrLmNv/bS9mcmVlLXZlY3Rv/ci9jb2Rpbmctc3lz/dGVtLWJhbm5lcl84/NzcyMC0yOTk0Lmpw/Zw" width="100%" height="350"></p>
+<p align="center"> <img src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429" width="100%" height="350"></p>
 
 
 <h1 align="center">Hey world 👋, It's Vivek Singla Here</h1>
