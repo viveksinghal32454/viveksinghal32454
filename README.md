@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<img align="right" alt="Coding" width="300" height="300" src="https://github.com/viveksinghal32454/viveksinghal32454/blob/main/coding.gif">
+<img align="right" alt="Coding" width="350" height="300" src="https://github.com/viveksinghal32454/viveksinghal32454/blob/main/coding.gif">
 
 <hr>
 <h3 align="left">Connect with me:</h3>
