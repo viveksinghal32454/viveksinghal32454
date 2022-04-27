@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"> <img src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429" width="100%" height="350"></p>
+<p align="center"> <img src="https://github.com/viveksinghal32454/viveksinghal32454/blob/main/xero-code.gif?raw=true" width="100%" height="350"></p>
 
 
 <h1 align="center">Hey world 👋, It's Vivek Singla Here</h1>
